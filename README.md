@@ -55,7 +55,7 @@ As an engineering student stepping into scalable Android development, I believe 
   *This screen demonstrates the primary input pipeline where long-form destination URLs are validated before sending transaction payloads to Cloud Firestore.*
   
   <p align="center">
-    <img width="1080" height="2400" alt="App Home Screen View" src="https://github.com/user-attachments/assets/5fecb5ed-b411-4e43-8f0d-c55090646c78" />
+    <img width="400" alt="App Home Screen View" src="https://github.com/user-attachments/assets/5fecb5ed-b411-4e43-8f0d-c55090646c78" />
   </p>
 
   ---
@@ -64,7 +64,7 @@ As an engineering student stepping into scalable Android development, I believe 
   *The generation interface after the system completes the cryptographic UUID sub-string mapping and attaches the humorous custom prefix.*
   
   <p align="center">
-    <img width="1080" height="2400" alt="Roasted Link Generation View" src="https://github.com/user-attachments/assets/aba58e1f-58b5-4301-8282-3e3dbe0d0619" />
+    <img width="400" alt="Roasted Link Generation View" src="https://github.com/user-attachments/assets/aba58e1f-58b5-4301-8282-3e3dbe0d0619" />
   </p>
 
   ---
@@ -73,7 +73,7 @@ As an engineering student stepping into scalable Android development, I believe 
   *The responsive web landing platform hosted via Firebase. It intercepts path variables, queries the database, and processes real-time redirection with customized loading feedback.*
   
   <p align="center">
-    <img width="1080" height="2400" alt="Web Redirection Engine Loader" src="https://github.com/user-attachments/assets/595b613e-b94a-45c0-a658-276590a4f71c" />
+    <img width="400" alt="Web Redirection Engine Loader" src="https://github.com/user-attachments/assets/595b613e-b94a-45c0-a658-276590a4f71c" />
   </p>
 </details>
 
