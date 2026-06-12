@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154377652869",
+    "project_id": "roastlink",
+    "storage_bucket": "roastlink.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154377652869:android:08bce7df37af9343ad37ec",
+        "android_client_info": {
+          "package_name": "com.prakhar.roastlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdfrVMWCu7_vIerrVnpzio4KM6d6Ig54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
