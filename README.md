@@ -21,9 +21,8 @@ The defining main feature of this application is its **Dynamic Payload Injection
 
 ## 📱 App Main Interface
 
-<p align="center">
-  <src="https://github.com/user-attachments/assets/74c99e5f-4f3c-44f2-acfc-e6364056b0c9" />" width="220" alt="App Main Interface">
-</p>
+> Paste your Home Screen image exactly inside the brackets below. Just select "IMAGE_HERE" and drop your file!
+![RoastLink Dashboard](<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-53-37-03_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/000c2d56-b8a6-4128-b9ce-7a298c996289" />=240x)
 
 ---
 
@@ -53,21 +52,21 @@ As an engineering student stepping into scalable Android development, I believe 
   ### 1. Native Mobile Client (Link Shortening Process)
   *This screen demonstrates the primary input pipeline where long-form destination URLs are validated before sending transaction payloads to Cloud Firestore.*
   
-  <img width="1080" height="2400" alt="Screenshot_2026-06-12-16-53-37-03_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/e07aaf52-893f-450d-9fcc-00fee589620e" />
+  ![App Home Screen View](IMAGE_1=250x)
 
   ---
 
   ### 2. Payload Compounding (Generated Short URL)
   *The generation interface after the system completes the cryptographic UUID sub-string mapping and attaches the humorous custom prefix.*
   
-  <img width="1080" height="2400" alt="Screenshot_2026-06-12-16-54-44-49_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/b9e62652-172d-4c85-ad2f-3e0491a0219c" />
+  ![Roasted Link Generation View](IMAGE_2=250x)
 
   ---
 
   ### 3. Server-Side Edge Redirection
   *The responsive web landing platform hosted via Firebase. It intercepts path variables, queries the database, and processes real-time redirection with customized loading feedback.*
   
-  <img width="1080" height="2400" alt="Screenshot_2026-06-12-16-55-12-57_40deb401b9ffe8e1df2f1cc5ba480b12" src="https://github.com/user-attachments/assets/4dfce5f1-053b-4e09-850c-d5b34797456d" />
+  ![Web Redirection Engine Loader](IMAGE_3=250x)
 </details>
 
 ---
