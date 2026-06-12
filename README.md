@@ -101,9 +101,12 @@ firebase deploy --only hosting
 --- 
 
 ## 👤 PROJECT AUTHOR
-Prakhar Sinhasar - GitHub Portfolio
 
-This system marks my initial milestone in bridging physical mobile applications with scalable cloud computing instances. Pull requests and performance suggestions are highly welcomed!
+* **Prakhar Sinhasar** - [GitHub Portfolio](https://github.com/prakhar061)
+
+---
+
+*This system marks my initial milestone in bridging physical mobile applications with scalable cloud computing instances. Pull requests and performance suggestions are highly welcomed!*
 
 
 
