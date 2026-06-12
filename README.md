@@ -48,7 +48,7 @@ As an engineering student stepping into scalable Android development, I believe 
 ## 📸 Deep-Dive Walkthrough
 
 <details>
-  <summary><b>🔷 Click here to expand/collapse More App Screenshots</b></summary>
+  <summary><h3><b>🔷 Click here to expand/collapse More App Screenshots</b></h3></summary>
   <br>
   
   ### 1. Native Mobile Client (Link Shortening Process)
