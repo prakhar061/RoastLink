@@ -88,3 +88,8 @@ git clone [https://github.com/prakhar061/RoastLink.git](https://github.com/prakh
 Open the cloned directory structure inside Android Studio.
 
 Download your targeted google-services.json from your Firebase console instance and move it directly into the root /app folder block.
+
+## 👤 Project Author
+Prakhar Sinhasar - GitHub Portfolio
+
+This system marks my initial milestone in bridging physical mobile applications with scalable cloud computing instances. Pull requests and performance suggestions are highly welcomed!
