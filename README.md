@@ -31,8 +31,8 @@ The defining main feature of this application is its **Dynamic Payload Injection
 ## 🛠️ Development Transparency & AI Collaboration
 
 As an engineering student stepping into scalable Android development, I believe in absolute engineering transparency:
-- **The Core Vision:** The architectural blueprint, system routing flow, database schemas, and end-to-end redirection pipeline were fully conceived and directed by me.
-- **AI-Assisted Frontend:** To rapidly prototype the Kotlin frontend application, I efficiently leveraged Generative AI to accelerate approximately 60% of the Android client-side UI codebase.
+- **Interest vs. Time Constraints:** I have a deep interest in native Android development using Kotlin. However, balancing rigorous college schedules and academic timelines left limited hours for manual boilerplate drafting. To solve this, I leveraged Generative AI to accelerate approximately 60% to 70% of the frontend Android UI.
+- **The Core Vision:** The architectural blueprint, system routing flow, database schemas, and end-to-end redirection pipeline were fully conceived, configured, and directed by me.
 - **Problem-Solving & Engineering:** I acted as the primary System Architect—defining requirements, managing prompt engineering, debugging strict Firebase permission roadblocks, and custom-building the lightweight web redirection server entirely by hand.
 
 ---
