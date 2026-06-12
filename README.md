@@ -10,13 +10,14 @@
 
 **RoastLink is NOT an ordinary utility tool that simply shortens links.**
 
-The defining main feature of this application is its **Dynamic Payload Injection Engine** which cracks funny, suspicious-looking jokes right at the start of the generated link (e.g., `click-at-your-own-funeral`, `free-virus-installer`). This completely transforms an ordinary, boring URL redirection into an interactive, humorous experience for users.
+The defining main feature of this application is its **Dynamic Payload Injection Engine** which cracks funny, suspicious-looking jokes right at the start of the generated link (e.g., `click-at-your-own-funeral`, `free-virus-installer`). This completely transforms an ordinary, boring URL redirection into an interactive, humorous experience for users. Additionally, upon successful creation, the system instantly generates and presents a scannable **QR Code** for the roasted link, allowing seamless and fast execution across physical and digital mediums.
 
 ### Key Highlights:
 - **Humorous Custom Slugs:** Replaces generic string IDs with randomized roast elements.
+- **Instant QR Code Generation:** Automatically bundles the generated payload into an on-screen QR code for quick scanning.
 - **High Engagement:** Adds an entertaining flavor to peer-to-peer link sharing.
 - **Cloud Backend Infrastructure:** Instantly backed by an optimized redirection log registry.
-
+  
 ---
 
 ## 📱 App Main Interface
