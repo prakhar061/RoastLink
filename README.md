@@ -54,7 +54,7 @@ As an engineering student stepping into scalable Android development, I believe 
   *This screen demonstrates the primary input pipeline where long-form destination URLs are validated before sending transaction payloads to Cloud Firestore.*
   
   <p align="center">
-    <img src="IMAGE_1" width="250" alt="App Home Screen View">
+    <img width="1080" height="2400" alt="App Home Screen View" src="https://github.com/user-attachments/assets/5fecb5ed-b411-4e43-8f0d-c55090646c78" />
   </p>
 
   ---
