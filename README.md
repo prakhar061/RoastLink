@@ -1,4 +1,4 @@
-# RoastLink - Advanced Cloud-Integrated Link Management System
+# ⚡ RoastLink: The URL Shortener with a Shady, Roasted Twist! 🌶️
 
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg?style=flat-squared&logo=kotlin)](https://kotlinlang.org/)
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-orange.svg?style=flat-squared&logo=firebase)](https://firebase.google.com/)
@@ -21,8 +21,9 @@ The defining main feature of this application is its **Dynamic Payload Injection
 
 ## 📱 App Main Interface
 
-> Paste your Home Screen image exactly inside the brackets below. Just select "IMAGE_HERE" and drop your file!
-![RoastLink Dashboard](<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-53-37-03_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/000c2d56-b8a6-4128-b9ce-7a298c996289" />=240x)
+<p align="center">
+  <img src="<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-53-37-03_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/f625163c-9bde-4044-8bc6-3a38b03fb413" />" width="250" alt="RoastLink Client Interface">
+</p>
 
 ---
 
@@ -52,21 +53,27 @@ As an engineering student stepping into scalable Android development, I believe 
   ### 1. Native Mobile Client (Link Shortening Process)
   *This screen demonstrates the primary input pipeline where long-form destination URLs are validated before sending transaction payloads to Cloud Firestore.*
   
-  ![App Home Screen View](IMAGE_1=250x)
+  <p align="center">
+    <img src="IMAGE_1" width="250" alt="App Home Screen View">
+  </p>
 
   ---
 
   ### 2. Payload Compounding (Generated Short URL)
   *The generation interface after the system completes the cryptographic UUID sub-string mapping and attaches the humorous custom prefix.*
   
-  ![Roasted Link Generation View](IMAGE_2=250x)
+  <p align="center">
+    <img src="IMAGE_2" width="250" alt="Roasted Link Generation View">
+  </p>
 
   ---
 
   ### 3. Server-Side Edge Redirection
   *The responsive web landing platform hosted via Firebase. It intercepts path variables, queries the database, and processes real-time redirection with customized loading feedback.*
   
-  ![Web Redirection Engine Loader](IMAGE_3=250x)
+  <p align="center">
+    <img src="IMAGE_3" width="250" alt="Web Redirection Engine Loader">
+  </p>
 </details>
 
 ---
