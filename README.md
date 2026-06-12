@@ -83,7 +83,7 @@ As an engineering student stepping into scalable Android development, I believe 
 
 ### Android Studio Setup
 ```bash
-git clone [https://github.com/prakhar061/RoastLink.git](https://github.com/prakhar061/RoastLink.git)
+git clone https://github.com/prakhar061/RoastLink.git
 ```
 
 1. Open the cloned directory structure inside **Android Studio**.
