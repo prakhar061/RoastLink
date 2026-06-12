@@ -21,7 +21,9 @@ The defining main feature of this application is its **Dynamic Payload Injection
 
 ## 📱 App Main Interface
 
-<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-53-37-03_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/d4e2433c-05c6-4e49-a9a0-a8883f6fe544" />
+<p align="center">
+  <img src="<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-53-37-03_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/00c1b08f-5eac-487b-9e66-c8646fe01259" />" width="220" alt="App Main Interface">
+</p>
 
 ---
 
