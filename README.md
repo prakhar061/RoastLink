@@ -84,12 +84,27 @@ As an engineering student stepping into scalable Android development, I believe 
 ### Android Studio Setup
 ```bash
 git clone [https://github.com/prakhar061/RoastLink.git](https://github.com/prakhar061/RoastLink.git)
+```
 
-Open the cloned directory structure inside Android Studio.
+1. Open the cloned directory structure inside **Android Studio**.
+2. Download your targeted `google-services.json` from your Firebase console instance and move it directly into the root `/app` folder block.
 
-Download your targeted google-services.json from your Firebase console instance and move it directly into the root /app folder block.
+---   
 
-## 👤 Project Author
+## 🕸️ Web Infrastructure Deployment
+
+Bash
+npm install -g firebase-tools
+firebase login
+firebase deploy --only hosting
+
+--- 
+
+👤 Project Author
 Prakhar Sinhasar - GitHub Portfolio
 
 This system marks my initial milestone in bridging physical mobile applications with scalable cloud computing instances. Pull requests and performance suggestions are highly welcomed!
+
+
+
+   
