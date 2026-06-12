@@ -8,10 +8,10 @@
 
 ## 📌 Project Executive Summary
 
-| Project Overview & Core Value | App Main Interface |
+| 🔥 Core Feature & Application Value | 📱 App Main Interface |
 | :--- | :---: |
-| **RoastLink** is not an ordinary utility tool that simply minifies destination URLs. Its defining core capability is the **Dynamic Payload Injection Engine**. <br><br>Instead of traditional, generic short URLs, the architecture programmatically prefixes high-engagement, custom "roasted" and funny slugs (e.g., `click-at-your-own-funeral`, `free-virus-installer`) to the link. <br><br>This transforms standard redirection into an interactive, humorous user experience, backed by a scalable real-time cloud registry. | <img src="<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-53-37-03_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/b287605a-1e16-43fc-96b7-1c2ccc783a65" />
-" width="240" alt="RoastLink Main Dashboard"> |
+| **RoastLink is NOT an ordinary utility tool that simply shortens links.** <br><br>The defining main feature of this application is its **Dynamic Payload Injection Engine** which cracks funny, suspicious-looking jokes right at the start of the generated link (e.g., `click-at-your-own-funeral`, `free-virus-installer`). This completely transforms an ordinary, boring URL redirection into an interactive, humorous experience for users. <br><br>**Key Highlights:**<br>• **Humorous Custom Slugs:** Replaces generic string IDs with randomized roast elements.<br>• **High Engagement:** Adds an entertaining flavor to peer-to-peer link sharing.<br>• **Cloud Backend Infrastructure:** Instantly backed by an optimized redirection log registry. | <img src="https://github.com/prakhar061/RoastLink/assets/<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-53-37-03_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/6bcaba58-7dba-4200-b9a2-07e55f890fca" />
+" width="240" alt="RoastLink Dashboard"> |
 
 ---
 
@@ -40,26 +40,28 @@ As an engineering student stepping into scalable Android development, I believe 
   
   ### 1. Native Mobile Client (Link Shortening Process)
   *This screen demonstrates the primary input pipeline where long-form destination URLs are validated before sending transaction payloads to Cloud Firestore.*
+  <br><br>
   <p align="center">
-    <img src="<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-53-37-03_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/1637b5c0-a2bc-4264-8e5f-b2cd3d160d3f" />
-" width="250" alt="App Home Screen View" style="border-radius: 8px; margin-bottom: 20px;">
+    <img src="https://github.com/prakhar061/RoastLink/assets/<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-54-44-49_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/125e5002-3fee-44c0-ab7e-b3c340f69862" />
+" width="250" alt="App Home Screen View" style="border-radius: 8px;">
   </p>
 
   ---
 
   ### 2. Payload Compounding (Generated Short URL)
   *The generation interface after the system completes the cryptographic UUID sub-string mapping and attaches the humorous custom prefix.*
+  <br><br>
   <p align="center">
-    <img src="<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-54-44-49_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/b6f7782c-3f0d-4e40-833d-110bd495514f" />
-" width="250" alt="Roasted Link Generation View" style="border-radius: 8px; margin-bottom: 20px;">
+    <img src="https://github.com/prakhar061/RoastLink/assets/<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-55-12-57_40deb401b9ffe8e1df2f1cc5ba480b12" src="https://github.com/user-attachments/assets/4c48a8c0-98a8-4b51-9dda-631f7cb4cd04" />" width="250" alt="Roasted Link Generation View" style="border-radius: 8px;">
   </p>
 
   ---
 
   ### 3. Server-Side Edge Redirection
   *The responsive web landing platform hosted via Firebase. It intercepts path variables, queries the database, and processes real-time redirection with customized loading feedback.*
+  <br><br>
   <p align="center">
-    <img src="<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-55-12-57_40deb401b9ffe8e1df2f1cc5ba480b12" src="https://github.com/user-attachments/assets/9486c94c-351e-4865-acaf-5393f068dceb" />
+    <img src="https://github.com/prakhar061/RoastLink/assets/<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-54-44-49_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/f377fe88-a0b8-472a-88b7-18025806f2ba" />
 " width="250" alt="Web Redirection Engine Loader" style="border-radius: 8px;">
   </p>
 </details>
