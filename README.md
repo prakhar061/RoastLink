@@ -93,14 +93,14 @@ git clone [https://github.com/prakhar061/RoastLink.git](https://github.com/prakh
 
 ## 🕸️ Web Infrastructure Deployment
 
-Bash
+```bash
 npm install -g firebase-tools
 firebase login
 firebase deploy --only hosting
-
+```
 --- 
 
-👤 Project Author
+## 👤 PROJECT AUTHOR
 Prakhar Sinhasar - GitHub Portfolio
 
 This system marks my initial milestone in bridging physical mobile applications with scalable cloud computing instances. Pull requests and performance suggestions are highly welcomed!
