@@ -22,7 +22,7 @@ The defining main feature of this application is its **Dynamic Payload Injection
 ## 📱 App Main Interface
 
 <p align="center">
-  <img src="<img width="1080" height="2400" alt="Screenshot_2026-06-12-16-53-37-03_31ec030915219be0bbb0259dc20c43de" src="https://github.com/user-attachments/assets/f625163c-9bde-4044-8bc6-3a38b03fb413" />" width="250" alt="RoastLink Client Interface">
+  <img width="250" alt="RoastLink Client Interface" src="https://github.com/user-attachments/assets/54436d67-6810-42fb-af91-cc0893682c5b" />
 </p>
 
 ---
