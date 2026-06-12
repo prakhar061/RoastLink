@@ -22,7 +22,7 @@ The defining main feature of this application is its **Dynamic Payload Injection
 ## 📱 App Main Interface
 
 <p align="center">
-  <img width="250" alt="RoastLink Client Interface" src="https://github.com/user-attachments/assets/54436d67-6810-42fb-af91-cc0893682c5b" />
+  <img width="400" alt="RoastLink Client Interface" src="https://github.com/user-attachments/assets/54436d67-6810-42fb-af91-cc0893682c5b" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ As an engineering student stepping into scalable Android development, I believe 
   *The generation interface after the system completes the cryptographic UUID sub-string mapping and attaches the humorous custom prefix.*
   
   <p align="center">
-    <img src="IMAGE_2" width="250" alt="Roasted Link Generation View">
+    <img width="1080" height="2400" alt="Roasted Link Generation View" src="https://github.com/user-attachments/assets/aba58e1f-58b5-4301-8282-3e3dbe0d0619" />
   </p>
 
   ---
@@ -72,7 +72,7 @@ As an engineering student stepping into scalable Android development, I believe 
   *The responsive web landing platform hosted via Firebase. It intercepts path variables, queries the database, and processes real-time redirection with customized loading feedback.*
   
   <p align="center">
-    <img src="IMAGE_3" width="250" alt="Web Redirection Engine Loader">
+    <img width="1080" height="2400" alt="Web Redirection Engine Loader" src="https://github.com/user-attachments/assets/595b613e-b94a-45c0-a658-276590a4f71c" />
   </p>
 </details>
 
