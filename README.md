@@ -19,6 +19,19 @@ The defining main feature of this application is its **Dynamic Payload Injection
 - **Cloud Backend Infrastructure:** Instantly backed by an optimized redirection log registry.
   
 ---
+## 📱 App Main Interface
+
+> ### ⚡ Live In-Browser Android Emulator
+> Don't want to install the APK? Test the full application layout, generate links, and view immediate roasts live in your browser on **PC, Mac, Android, or iOS**!
+> 
+> 🚀 **[👉 Click Here to Launch the Live Interactive Emulator](https://appetize.io/app/b_ixpj2unslphh627quqytkfai3a)**
+> *(Powered by Appetize.io — click the start button inside the virtual screen to start)*
+
+<p align="center">
+  <img src="app/src/main/res/drawable/logo.png" width="350" title="RoastLink App Interface">
+</p>
+
+---
 
 ## 📱 App Main Interface
 
